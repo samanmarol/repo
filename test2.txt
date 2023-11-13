@@ -1,2 +1,2 @@
-print("saman")
+print("sam")
 return("true")
